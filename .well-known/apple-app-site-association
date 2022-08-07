@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "me.llsc12.Artemis.watchkitapp" ],
+             "appIDs": [ "566RT33SA2.me.llsc12.Artemis.watchkitapp" ],
              "components": [
                {
                   "/": "/flicktype/*",
