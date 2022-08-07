@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "me.llsc12.Artemis.watchkitapp" ],
+             "components": [
+               {
+                  "/": "/flicktype/*",
+                  "comment": "flicktype support"
+               }
+             ]
+           }
+       ]
+   }
+}
