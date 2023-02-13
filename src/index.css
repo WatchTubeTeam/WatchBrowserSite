@@ -1,12 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   --background: #222;
   --color: #fff;
-
-  --font: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
 
-* {
-  font-family: var(--font);
+@layer base {
+  html {
+    @apply scroll-smooth;
+    @apply font-inter;
+  }
 }
 
 body {
