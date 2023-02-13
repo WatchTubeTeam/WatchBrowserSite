@@ -1,0 +1,21 @@
+:root {
+  --background: #222;
+  --color: #fff;
+
+  --font: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+* {
+  font-family: var(--font);
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--color);
+}
+
+a {
+  color: #0064ff;
+  text-decoration: none;
+}
